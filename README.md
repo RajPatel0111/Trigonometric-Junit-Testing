@@ -14,7 +14,7 @@ serise and tested using JUnit in this project.
 1. Calculating accurate value in radian
 2. Checking other functionalities such as Power and Factorial
 3. Calculating accurate value in degree
-4. Normalizing radian value between 0 to 2 pi.
+4. Normalizing radian value between 0 to 2 pi
 
 <h2>Description of Test Cases</h2>
 
