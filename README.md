@@ -44,7 +44,7 @@ serise and tested using JUnit in this project.
 
 <h3>Test Case 4:</h3>
 
-4. Normalizing radian value between 0 to 2 pi.
+4. Normalizing radian value between 0 to 2 pi
 
 - Forth Test case is used for normalizing any value to 0 to 2 pi. ex. 60 radian.
 
